@@ -1,0 +1,8 @@
+====================================================== 
+CashBook Upload Debug Log 
+Date: 04/05/2026 11:39:07.53 
+====================================================== 
+Current Directory: F:\Sikander_Hayat_Baba\web\cash-book 
+Checking Git... 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
